@@ -1,0 +1,45 @@
+
+---
+title: "As abelhas da Mata Atlântica, no caminho do replantar"
+date: "2021"
+output:
+  rmdformats::material
+   
+---
+
+
+```{r figBoxCox1, out.width='50%', fig.align='center', echo=FALSE}
+knitr::include_graphics('figure/Capa_Livro.png')
+```
+
+
+
+# APRESENTAÇÃO
+
+Nesta obra convidamos os leitores a conhecer a riqueza de espécies florais em
+áreas de proteção ambiental sob reflorestamento jovem, com a ajuda dos
+recursos tróficos, mel e pólen, das abelhas nativas. Nessa trajetória saberemos a
+direção da preferência das abelhas e da sua atratividade às espécies florais
+introduzidas e àquelas silvestres naturalmente revitalizadas
+
+
+# ORGANIZADORAS
+
+---
+
+Profª. Maria Cristina Lorenzon - https://sigaa.ufrrj.br/sigaa/public/docente/portal.jsf?siape=338315 
+
+Profª. Adriana Andrade - https://sigaa.ufrrj.br/sigaa/public/docente/portal.jsf?siape=2619473
+
+
+```{r, echo=FALSE}
+htmltools::img(src = knitr::image_uri("figure/logo_ufrrj.jpg"), 
+               alt = 'logo', 
+               style = 'top:20%; right:50%; padding:10px; height:100px;out.width=30%')
+```
+
+
+
+# DOWNLOAD DO LIVRO
+
+[Download do livro](https://drive.google.com/file/d/1aKqq_7hBjJABNPhayoTPSDT5_ILBMgtY/view?usp=sharing)
