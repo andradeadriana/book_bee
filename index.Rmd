@@ -23,6 +23,16 @@ direção da preferência das abelhas e da sua atratividade às espécies florai
 introduzidas e àquelas silvestres naturalmente revitalizadas
 
 
+# LANÇAMENTO
+
+[link da live](https://www.youtube.com/channel/UCKLgLN3Q5kx1-Ahbiyf0ovw)
+
+```{r, out.width='50%', fig.align='center', echo=FALSE}
+knitr::include_graphics('G:/Meu Drive/Projects/Book_bee/Lancamento.png')
+
+```
+
+
 # ORGANIZADORAS
 
 ---
@@ -39,7 +49,6 @@ htmltools::img(src = knitr::image_uri("figure/logo_ufrrj.jpg"),
 ```
 
 
-
 # DOWNLOAD DO LIVRO
 
-[Download do livro](https://drive.google.com/file/d/1aKqq_7hBjJABNPhayoTPSDT5_ILBMgtY/view?usp=sharing)
+[Download do livro](https://drive.google.com/file/d/1aDodL-lsOan8Y543iymKcYKMpcaJ28rq/view?usp=sharing)
