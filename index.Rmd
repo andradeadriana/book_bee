@@ -51,4 +51,4 @@ htmltools::img(src = knitr::image_uri("figure/logo_ufrrj.jpg"),
 
 # DOWNLOAD DO LIVRO
 
-[Download do livro](https://drive.google.com/file/d/1aDodL-lsOan8Y543iymKcYKMpcaJ28rq/view?usp=sharing)
+[Download do livro](https://drive.google.com/file/d/1shueWMY3CwjpN0KrwSf6fX62DE_VMQUf/view?usp=sharing)
